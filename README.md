@@ -21,7 +21,7 @@
 
 ## 📸 Dashboard Preview
 
-![Adidas Sales Dashboard](./dashboard_overview.png)
+![Adidas Sales Dashboard](IMG-20260430-WA0044.jpg)
 
 ---
 
